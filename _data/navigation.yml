@@ -14,7 +14,7 @@ main:
   #  url: "/categories/list"
   #- title: "All Post"
     url: "/categories/"
-  - title: "Tags"
+ - title: "Tags"
     url: /tags/
-  - title: "Year"
+ - title: "Year"
     url: "/year-archive/"
